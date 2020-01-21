@@ -1,2 +1,3 @@
 import React from "react";
-export const Heart = () => <span>Hello</span>;
+const Heart = () => <a href= '/'>ClickMe!</a>;
+export default Heart;
